@@ -1,4 +1,4 @@
-# neovim-one-dark
+# NEOVIM ONE DARK
 NeoVim with One Dark theme setup
 
 **NORMAL MODE**
