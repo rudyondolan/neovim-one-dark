@@ -1,14 +1,20 @@
 # neovim-one-dark
 NeoVim with One Dark theme setup
 
-### NORMAL MODE
-![alt NORMAL](screenshots/normal-mode.png)
+**NORMAL MODE**
+![alt normal](screenshots/normal-mode.png)
 
-### VISUAL MODE
-![alt VISUAL](screenshots/visual-mode.png)
+**VISUAL MODE**
+![alt visual](screenshots/visual-mode.png)
 
-### INSERT MODE
-![NORMAL](screenshots/insert-mode.png)
+**INSERT MODE**
+![alt insert](screenshots/insert-mode.png)
 
-### REPLACE MODE
-![NORMAL](screenshots/replace-mode.png)
+**REPLACE MODE**
+![alt replace](screenshots/replace-mode.png)
+
+**LINTER**
+![alt linter](screenshots/linter.png)
+
+**SIDEBAR**
+![alt replace](screenshots/sidebar.png)
